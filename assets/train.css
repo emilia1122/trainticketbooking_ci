@@ -1,0 +1,9 @@
+li {
+    font-family: 'Karla', sans-serif;
+    color: #fff;
+}
+
+.table, th{
+    font-family: 'Karla', sans-serif;
+    font-weight: normal;
+}
